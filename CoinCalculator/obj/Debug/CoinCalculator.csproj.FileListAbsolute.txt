@@ -1,0 +1,14 @@
+C:\Users\robin\source\repos\GurpreetSingh_783177_assignment45\GurpreetSingh_783177_assignment45\bin\Debug\GurpreetSingh_783177_assignment45.exe.config
+C:\Users\robin\source\repos\GurpreetSingh_783177_assignment45\GurpreetSingh_783177_assignment45\bin\Debug\GurpreetSingh_783177_assignment45.exe
+C:\Users\robin\source\repos\GurpreetSingh_783177_assignment45\GurpreetSingh_783177_assignment45\bin\Debug\GurpreetSingh_783177_assignment45.pdb
+C:\Users\robin\source\repos\GurpreetSingh_783177_assignment45\GurpreetSingh_783177_assignment45\obj\Debug\CoinCalculator.csprojAssemblyReference.cache
+C:\Users\robin\source\repos\GurpreetSingh_783177_assignment45\GurpreetSingh_783177_assignment45\obj\Debug\CoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\GurpreetSingh_783177_assignment45\GurpreetSingh_783177_assignment45\obj\Debug\GurpreetSingh_783177_assignment45.exe
+C:\Users\robin\source\repos\GurpreetSingh_783177_assignment45\GurpreetSingh_783177_assignment45\obj\Debug\GurpreetSingh_783177_assignment45.pdb
+C:\Users\robin\source\repos\Coin Calculator\CoinCalculator\bin\Debug\CoinCalculator.exe.config
+C:\Users\robin\source\repos\Coin Calculator\CoinCalculator\bin\Debug\CoinCalculator.exe
+C:\Users\robin\source\repos\Coin Calculator\CoinCalculator\bin\Debug\CoinCalculator.pdb
+C:\Users\robin\source\repos\Coin Calculator\CoinCalculator\obj\Debug\CoinCalculator.csprojAssemblyReference.cache
+C:\Users\robin\source\repos\Coin Calculator\CoinCalculator\obj\Debug\CoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Coin Calculator\CoinCalculator\obj\Debug\CoinCalculator.exe
+C:\Users\robin\source\repos\Coin Calculator\CoinCalculator\obj\Debug\CoinCalculator.pdb
